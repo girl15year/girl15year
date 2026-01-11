@@ -8,6 +8,8 @@ I’m a tech influencer, PhD candidate, and your *Go-To Girl for Tech*! I’ve w
 🧬 **Science & Tech Enthusiast**  
 With a BSc in Biomedical Sciences (University of Essex, 2019) and currently pursuing a PhD in Life Sciences, I specialize in epigenetics. I also co-host *The Genomics Lab Podcast* with Ellie Watson, where we explore topics like DNA nanotechnology and epigenetics since 2021.  
 
+<a href="https://stats.hyo.dev/stats/girl15year"><img src="https://stats.hyo.dev/api/github-stats?login=girl15year" width="600" /></a>
+
 🎥 **What I Do**  
 - Tech unboxings & reviews (Apple, Razer, and more!) 💖  
 - Workspace setup ideas for productivity 🌟  
